@@ -13,7 +13,7 @@
           <div class="donate-modal">
             <div class="donate-body-modal">
               <div class="donate-box">
-                <transition name="slide-right">
+                <transition name="slide-left">
                   <div class="donate-card" v-if="showP">
                     <h3 class="tw-font-comfortaa">Mừng cưới đến chú rể</h3>
                       <a-space direction="vertical" align="center">
@@ -24,8 +24,23 @@
                           />
                     </a-space>
                     <p class="tw-font-comfortaa">Ngân hàng: <strong>TECHCOMBANK</strong></p>
-                    <p class="tw-font-comfortaa">Tên tài khoản: <strong>HUYNH DAI NGHIA</strong></p>
-                    <p class="tw-font-comfortaa">Số tài khoản: <strong>1998052900</strong></p>
+                    <p class="tw-font-comfortaa">Tên tài khoản: <strong>TRAN VAN TUAN</strong></p>
+                    <p class="tw-font-comfortaa">Số tài khoản: <strong>3609901231</strong></p>
+                  </div>
+                </transition>
+               <transition name="slide-right">
+                  <div class="donate-card" v-if="showP">
+                    <h3 class="tw-font-comfortaa">Mừng cưới đến cô dâu</h3>
+                      <a-space direction="vertical" align="center">
+                           <a-image
+                            class="!tw-w-[160px] !tw-h-[160px]"
+                            :src="qrThao"
+                            alt=""
+                          />
+                    </a-space>
+                    <p class="tw-font-comfortaa">Ngân hàng: <strong>AGRIBANK</strong></p>
+                    <p class="tw-font-comfortaa">Tên tài khoản: <strong>PHAM THI THU THAO</strong></p>
+                    <p class="tw-font-comfortaa">Số tài khoản: <strong>2200205651936</strong></p>
                   </div>
                 </transition>
               </div>
@@ -270,8 +285,8 @@
 
 <script lang="ts" setup>
 import { ref, onMounted, onUnmounted } from 'vue';
-import qrHieu from "@/assets/imgaes/qrcode.png";
-
+import qrHieu from "@/assets/imgaes/qr1.jpg";
+import qrThao from "@/assets/imgaes/qr2.jpg";
 const donation = ref<HTMLElement | null>(null);
 const showP = ref<boolean>(false);
 

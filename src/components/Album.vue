@@ -84,30 +84,29 @@
 
 <script lang="ts" setup>
 import {ref} from "vue";
-import image1 from "@/assets/imgaes/album1.jpg";
-import image2 from "@/assets/imgaes/album2.jpg";
-import image3 from "@/assets/imgaes/album3.jpg";
-import image4 from "@/assets/imgaes/album4.jpg";
-import image5 from "@/assets/imgaes/album5.jpg";
-import image6 from "@/assets/imgaes/album6.jpg";
-import image7 from "@/assets/imgaes/album7.jpg";
-import image8 from "@/assets/imgaes/album8.jpg";
-import image9 from "@/assets/imgaes/album9.jpg";
-import image10 from "@/assets/imgaes/album10.jpg";
-import image11 from "@/assets/imgaes/album11.jpg";
-import image12 from "@/assets/imgaes/album12.jpg";
-import image13 from "@/assets/imgaes/album13.jpg";
-import image14 from "@/assets/imgaes/album14.jpg";
-import image15 from "@/assets/imgaes/album15.jpg";
-import image16 from "@/assets/imgaes/album16.jpg";
-import image17 from "@/assets/imgaes/album17.jpg";
-import image18 from "@/assets/imgaes/album18.jpg";
-import image19 from "@/assets/imgaes/album19.jpg";
-import image20 from "@/assets/imgaes/album20.jpg";
-import image21 from "@/assets/imgaes/album21.jpg";
-import image22 from "@/assets/imgaes/album22.jpg";
-import image23 from "@/assets/imgaes/album23.jpg";
-import image24 from "@/assets/imgaes/album24.jpg";
+import image1 from "@/assets/imgaes/THK_5977.jpg";
+import image2 from "@/assets/imgaes/THK_5912.jpg";
+import image3 from "@/assets/imgaes/THK_5963.jpg";
+import image4 from "@/assets/imgaes/THK_6153.jpg";
+import image5 from "@/assets/imgaes/THK_6343.jpg";
+import image6 from "@/assets/imgaes/THK_6435.jpg";
+import image7 from "@/assets/imgaes/THK_5909.jpg";
+import image8 from "@/assets/imgaes/THK_6599.jpg";
+import image9 from "@/assets/imgaes/02.jpg";
+import image11 from "@/assets/imgaes/THK_6028.jpg";
+import image12 from "@/assets/imgaes/THK_61581.jpg";
+import image13 from "@/assets/imgaes/THK_10000.jpeg";
+import image14 from "@/assets/imgaes/THK_6611.jpg";
+import image10 from "@/assets/imgaes/THK_5761.jpeg";
+// import image16 from "@/assets/imgaes/album16.jpg";
+// import image17 from "@/assets/imgaes/album17.jpg";
+// import image18 from "@/assets/imgaes/album18.jpg";
+// import image19 from "@/assets/imgaes/album19.jpg";
+// import image20 from "@/assets/imgaes/album20.jpg";
+// import image21 from "@/assets/imgaes/album21.jpg";
+// import image22 from "@/assets/imgaes/album22.jpg";
+// import image23 from "@/assets/imgaes/album23.jpg";
+// import image24 from "@/assets/imgaes/album24.jpg";
 
 interface Image {
   id: number;
@@ -117,20 +116,16 @@ interface Image {
 const imgaes:Image[] = [
 {
     id: 7,
-    url: image7,
+    url: image1,
   },
 
   {
     id: 1,
-    url:image1,
+    url:image9,
   },
   {
     id: 2,
     url: image2,
-  },
-  {
-    id: 15,
-    url:image15,
   },
   {
     id: 3,
@@ -152,16 +147,15 @@ const imgaes:Image[] = [
     id: 6,
     url:image6,
   },
- 
-
-  {
-    id: 9,
-    url: image9,
-  },
-  {
+    {
     id: 10,
     url:image10,
   },
+  {
+    id: 9,
+    url: image7,
+  },
+
   {
     id: 11,
     url:image11,
@@ -179,41 +173,41 @@ const imgaes:Image[] = [
     url: image14,
   },
 
-  {
-    id: 16,
-    url: image16,
-  },
-  {
-    id: 17,
-    url: image17,
-  },
-  {
-    id: 18,
-    url: image18,
-  },
-  {
-    id: 19,
-    url:image19,
-  },
-  {
-    id: 20,
-    url:image20,
-  },
-   {
-    id: 21,
-    url: image21,
-  },
-   {
-    id: 22,
-    url: image22,
-  },
-  {
-    id: 23,
-    url: image23,
-  },
-   {
-    id: 24,
-    url: image24,
-  },
+  // {
+  //   id: 16,
+  //   url: image16,
+  // },
+  // {
+  //   id: 17,
+  //   url: image17,
+  // },
+  // {
+  //   id: 18,
+  //   url: image18,
+  // },
+  // {
+  //   id: 19,
+  //   url:image19,
+  // },
+  // {
+  //   id: 20,
+  //   url:image20,
+  // },
+  //  {
+  //   id: 21,
+  //   url: image21,
+  // },
+  //  {
+  //   id: 22,
+  //   url: image22,
+  // },
+  // {
+  //   id: 23,
+  //   url: image23,
+  // },
+  //  {
+  //   id: 24,
+  //   url: image24,
+  // },
 ];
 </script>

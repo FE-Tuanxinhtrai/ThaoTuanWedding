@@ -435,8 +435,8 @@
 
 <script lang="ts" setup>
 import { ref, onMounted, onUnmounted } from 'vue';
-import image1 from "@/assets/imgaes/totinh.jpg";
-import image2 from "@/assets/imgaes/chure1.jpg";
+import image1 from "@/assets/imgaes/THK_6072.jpg";
+import image2 from "@/assets/imgaes/04.jpg";
 const story = ref<HTMLElement | null>(null);
 const showP = ref<boolean>(false);
 

@@ -20,13 +20,13 @@
                   />
                 </div>
                 <p>
-                  <strong class="tw-font-comfortaa">09:00 22/09/2024</strong>
+                  <strong class="tw-font-comfortaa">12:00 04/01/2026</strong>
                 </p>
                 <p class="tw-font-comfortaa">
-                    Bình Tân, Bắc Bình, Bình Thuận 
+                    Châu Bạc Tháp, Minh Tân, Ninh Bình
                 </p>
                 <div class="calendar-button tw-font-comfortaa">Thêm vào lịch</div>
-                <a target="_blank" href="https://www.google.com/maps?q=Rio+Wedding+Restaurant,+B%C3%ACnh+Nh%C6%A1n,+B%C3%ACnh+T%C3%A2n,+B%E1%BA%AFc+B%C3%ACnh,+B%C3%ACnh+Thu%E1%BA%ADn,+Vi%E1%BB%87t+Nam&ftid=0x3176bcf0b7b727ed:0xcc5487f3abc4b3a4&entry=gps&lucs=,94226966,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_ep=CAISDTYuMTI5LjEuODA5MjAYACDXggMqYyw5NDIyNjk2Niw5NDIyNDgyNSw5NDIyNzI0Nyw5NDIyNzI0OCw0NzA3MTcwNCw0NzA2OTUwOCw5NDIxODY0MSw5NDIwMzAxOSw0NzA4NDMwNCw5NDIwODQ1OCw5NDIwODQ0N0ICSlA%3D&g_st=ifm" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
+                <a target="_blank" href="https://www.google.com/maps/dir//20.3868906,106.0762897/@20.3869013,106.0762639,21z?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
               </div>
               <div class="grid">
                 <h3 class="tw-font-comfortaa">Tiệc cưới nhà nữ</h3>
@@ -37,10 +37,10 @@
                   />
                 </div>
                 <p>
-                  <strong class="tw-font-comfortaa">11:00 22/09/2024</strong>
+                  <strong class="tw-font-comfortaa">09:00 04/01/2026</strong>
                 </p>
                 <p class="tw-font-comfortaa">
-                  Nhà hàng Rio, Bình Tân, Bắc Bình, Bình Thuận 
+                    Châu Bạc Tháp, Minh Tân, Ninh Bình
                 </p>
                 <div class="calendar-button tw-font-comfortaa">Thêm vào lịch</div>
                 <a target="_blank" href="https://www.google.com/maps?q=Rio+Wedding+Restaurant,+B%C3%ACnh+Nh%C6%A1n,+B%C3%ACnh+T%C3%A2n,+B%E1%BA%AFc+B%C3%ACnh,+B%C3%ACnh+Thu%E1%BA%ADn,+Vi%E1%BB%87t+Nam&ftid=0x3176bcf0b7b727ed:0xcc5487f3abc4b3a4&entry=gps&lucs=,94226966,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_ep=CAISDTYuMTI5LjEuODA5MjAYACDXggMqYyw5NDIyNjk2Niw5NDIyNDgyNSw5NDIyNzI0Nyw5NDIyNzI0OCw0NzA3MTcwNCw0NzA2OTUwOCw5NDIxODY0MSw5NDIwMzAxOSw0NzA4NDMwNCw5NDIwODQ1OCw5NDIwODQ0N0ICSlA%3D&g_st=ifm" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
@@ -54,13 +54,13 @@
                   />
                 </div>
                 <p>
-                  <strong class="tw-font-comfortaa">09:00 22/09/2024</strong>
+                  <strong class="tw-font-comfortaa">12:00 04/01/2026</strong>
                 </p>
                 <p class="tw-font-comfortaa">
-                  Bình Tân, Bắc Bình, Bình Thuận 
+                  Đội 6, Xóm 2, Vụ Bản, Ninh Bình
                 </p>
                 <div class="calendar-button tw-font-comfortaa">Thêm vào lịch</div>
-                <a target="_blank" href="https://www.google.com/maps?q=Rio+Wedding+Restaurant,+B%C3%ACnh+Nh%C6%A1n,+B%C3%ACnh+T%C3%A2n,+B%E1%BA%AFc+B%C3%ACnh,+B%C3%ACnh+Thu%E1%BA%ADn,+Vi%E1%BB%87t+Nam&ftid=0x3176bcf0b7b727ed:0xcc5487f3abc4b3a4&entry=gps&lucs=,94226966,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_ep=CAISDTYuMTI5LjEuODA5MjAYACDXggMqYyw5NDIyNjk2Niw5NDIyNDgyNSw5NDIyNzI0Nyw5NDIyNzI0OCw0NzA3MTcwNCw0NzA2OTUwOCw5NDIxODY0MSw5NDIwMzAxOSw0NzA4NDMwNCw5NDIwODQ1OCw5NDIwODQ0N0ICSlA%3D&g_st=ifm" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
+                <a target="_blank" href="https://www.google.com/maps/place/20%C2%B021'46.5%22N+106%C2%B004'26.6%22E/@20.3628714,106.0734342,19z/data=!4m4!3m3!8m2!3d20.362928!4d106.074065?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
               </div>
               <div class="grid">
                 <h3 class="tw-font-comfortaa">Tiệc cưới nhà nam</h3>
@@ -71,13 +71,13 @@
                   />
                 </div>
                 <p>
-                  <strong class="tw-font-comfortaa">11:00 22/09/2024</strong>
+                  <strong class="tw-font-comfortaa">09:00 04/01/2026</strong>
                 </p>
                 <p class="tw-font-comfortaa">
-                  Nhà hàng Rio, Bình Tân, Bắc Bình, Bình Thuận 
+                  Nhà hàng Thuỷ Quyền, Đội 8, Xóm 3
                 </p>
                 <div class="calendar-button tw-font-comfortaa">Thêm vào lịch</div>
-                <a target="_blank" href="https://www.google.com/maps?q=Rio+Wedding+Restaurant,+B%C3%ACnh+Nh%C6%A1n,+B%C3%ACnh+T%C3%A2n,+B%E1%BA%AFc+B%C3%ACnh,+B%C3%ACnh+Thu%E1%BA%ADn,+Vi%E1%BB%87t+Nam&ftid=0x3176bcf0b7b727ed:0xcc5487f3abc4b3a4&entry=gps&lucs=,94226966,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_ep=CAISDTYuMTI5LjEuODA5MjAYACDXggMqYyw5NDIyNjk2Niw5NDIyNDgyNSw5NDIyNzI0Nyw5NDIyNzI0OCw0NzA3MTcwNCw0NzA2OTUwOCw5NDIxODY0MSw5NDIwMzAxOSw0NzA4NDMwNCw5NDIwODQ1OCw5NDIwODQ0N0ICSlA%3D&g_st=ifm" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
+                <a target="_blank" href="https://www.google.com/maps/place/Nh%C3%A0+H%C3%A0ng+Th%E1%BB%A7y+Quy%E1%BB%81n/@20.3595614,106.0739989,18.83z/data=!4m6!3m5!1s0x3135dfba24c98275:0x26fb0897a5ac56f2!8m2!3d20.3594655!4d106.0748308!16s%2Fg%2F11mvskjk1r?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
               </div>
             </div>
           </transition>
@@ -100,7 +100,7 @@
     max-width: 970px;
   }
   .top-background {
-    background: url('../assets/imgaes/slider1.jpg')
+    background: url('../assets/imgaes/THK_6455.jpg')
       center center/cover no-repeat;
     width: 100%;
     height: 60%;
