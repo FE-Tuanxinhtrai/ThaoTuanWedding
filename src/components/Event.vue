@@ -43,7 +43,7 @@
                     Châu Bạc Tháp, Minh Tân, Ninh Bình
                 </p>
                 <div class="calendar-button tw-font-comfortaa">Thêm vào lịch</div>
-                <a target="_blank" href="https://www.google.com/maps?q=Rio+Wedding+Restaurant,+B%C3%ACnh+Nh%C6%A1n,+B%C3%ACnh+T%C3%A2n,+B%E1%BA%AFc+B%C3%ACnh,+B%C3%ACnh+Thu%E1%BA%ADn,+Vi%E1%BB%87t+Nam&ftid=0x3176bcf0b7b727ed:0xcc5487f3abc4b3a4&entry=gps&lucs=,94226966,94224825,94227247,94227248,47071704,47069508,94218641,94203019,47084304,94208458,94208447&g_ep=CAISDTYuMTI5LjEuODA5MjAYACDXggMqYyw5NDIyNjk2Niw5NDIyNDgyNSw5NDIyNzI0Nyw5NDIyNzI0OCw0NzA3MTcwNCw0NzA2OTUwOCw5NDIxODY0MSw5NDIwMzAxOSw0NzA4NDMwNCw5NDIwODQ1OCw5NDIwODQ0N0ICSlA%3D&g_st=ifm" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
+                <a target="_blank" href="https://www.google.com/maps/dir//20.3868906,106.0762897/@20.3869013,106.0762639,21z?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D" class="see-location-button tw-font-comfortaa">Xem bản đồ</a>
               </div>
               <div class="grid">
                 <h3 class="tw-font-comfortaa">Lễ cưới</h3>
