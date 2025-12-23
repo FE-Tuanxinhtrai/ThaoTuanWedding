@@ -88,7 +88,7 @@ import image1 from "@/assets/imgaes/THK_5977.jpg";
 import image2 from "@/assets/imgaes/THK_5912.jpg";
 import image3 from "@/assets/imgaes/THK_5963.jpg";
 import image4 from "@/assets/imgaes/THK_6153.jpg";
-import image5 from "@/assets/imgaes/THK_6343.jpg";
+import image5 from "@/assets/imgaes/THK_6488-min.jpeg";
 import image6 from "@/assets/imgaes/THK_6435.jpg";
 import image7 from "@/assets/imgaes/THK_5909.jpg";
 import image8 from "@/assets/imgaes/THK_6599.jpg";

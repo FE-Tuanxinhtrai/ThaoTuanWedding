@@ -27,7 +27,7 @@
                   <div class="inner">
                     <h2>Văn Tuấn</h2>
                     <p class="text-family">
-                      Chàng trai Song Tử là những người đáng tin cậy và chân thành trong tình yêu😍. Song Tử cũng khá lãng mạn và tâm lý, luôn dành nhiều sự quan tâm và những điều tốt đẹp nhất cho người yêu.
+                      Chàng trai cung Ma Kết – người có ý chí mạnh mẽ, sống thực tế, kiên trì theo đuổi mục tiêu và luôn âm thầm nỗ lực để đạt được thành công bền vững 😍.  Ma Kết đại diện cho địa vị, danh vọng và sự nỗ lực không ngừng với vẻ ngoài cứng rắn, mạnh mẽ.
                     </p>
                   </div>
                 </div>
@@ -39,9 +39,7 @@
                   <div class="inner">
                     <h2>Thu Thảo</h2>
                     <p class="text-family">
-                      Cô gái cung Kim Ngưu nhiệt tình, hoà đồng và thân thiện. Thích khám phá và đặt
-                      chân đến những vùng đất mới😍 Ước mơ lớn nhất của cô dâu là được làm vợ của
-                      chú rể🤣
+                      Cô gái Cự Giải mang trong mình sự dịu dàng và sâu sắc, luôn yêu thương bằng cả trái tim chân thành. Dù bề ngoài có vẻ trầm lặng, bên trong cô là một thế giới cảm xúc phong phú, nơi sự quan tâm và bao dung dành cho những người cô yêu thương chưa bao giờ vơi cạn. Cô trân trọng gia đình, ký ức và những điều nhỏ bé, và chính sự ấm áp ấy khiến bất cứ ai ở bên cạnh cũng cảm thấy bình yên.🤣
                     </p>
                   </div>
                 </div>

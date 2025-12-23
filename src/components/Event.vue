@@ -15,8 +15,9 @@
                 <h3 class="tw-font-comfortaa">Lễ vu quy</h3>
                 <div class="img-wrap">
                   <a-image
-                    src="https://cdn.biihappy.com/ziiweb/default/website/7744fc9739685fe61c53cd8fe2cf7e52.png"
+                    :src="image1"
                     alt=""
+                    class="!tw-h-[182px] !tw-w-[182px] tw-object-cover"
                   />
                 </div>
                 <p>
@@ -49,8 +50,9 @@
                 <h3 class="tw-font-comfortaa">Lễ cưới</h3>
                 <div class="img-wrap">
                   <a-image
-                    src="https://cdn.biihappy.com/ziiweb/default/website/eee1cb36b560f0d80f513c4e9be666db.png"
+                     :src="image2"
                     alt=""
+                    class="!tw-h-[182px] !tw-w-[182px] tw-object-cover"
                   />
                 </div>
                 <p>
@@ -225,7 +227,8 @@
 </style>
 
 <script lang="ts" setup>
-
+import image1 from "@/assets/imgaes/THK_5720.jpg"
+import image2 from "@/assets/imgaes/THK_6110.jpg"
 // import { ref } from 'vue';
 
 // export default {

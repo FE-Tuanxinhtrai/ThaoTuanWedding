@@ -32,6 +32,7 @@
                       mình. Đôi khi lạc lõng và hơi cô đơn. Nhưng rồi một ngày đẹp trời, người con
                       trai ấy xuất hiện, nắm tay rồi thủ thỉ vào tai: “Hy vọng sau này anh được làm
                       những điều ấy cùng em”.
+                      Tớ không biết từ khi nào cậu trở nên quan trọng với tớ đến vậy, chỉ biết rằng mỗi lần nghĩ đến cậu là lòng lại thấy vui hơn một chút. Ở bên cậu, mọi thứ dường như nhẹ nhàng và dễ chịu hơn, và tớ nhận ra tớ muốn được quan tâm, lo lắng và cùng cậu chia sẻ những điều giản dị trong cuộc sống. Nếu có thể, tớ mong mình được ở cạnh cậu lâu hơn, không ồn ào, không phô trương, chỉ bằng sự chân thành mà tớ dành riêng cho cậu.
                     </p>
                   </div>
                 </transition>
@@ -57,7 +58,8 @@
                   <div class="detail" v-if="showP">
                     <h3 class="tw-font-comfortaa text-family !tw-text-[30px]">Phút Giây Cầu Hôn</h3>
                     <p class="tw-font-comfortaa text-family" >
-                     2 năm bên nhau không phải là quãng thời gian quá dài, nhưng đủ cho chúng ta nhận ra được rất nhiều điều. Yêu nhau, vun vén hạnh phúc và cùng nỗ lực vượt qua những khó khăn trong cuộc sống. Chúng ta từ 2 con người xa lạ mà bước vào cuộc đời nhau. Và giờ đây chúng ta tiếp tục cùng nhau sang trang mới. Giây phút anh ngỏ lời “Làm vợ anh nhé!”, em đã nguyện ý đời này, đi đâu cũng được, miễn là cùng anh.
+                     5 năm bên nhau không phải là quãng thời gian quá dài, nhưng đủ cho chúng ta nhận ra được rất nhiều điều. Yêu nhau, vun vén hạnh phúc và cùng nỗ lực vượt qua những khó khăn trong cuộc sống. Chúng ta từ 2 con người xa lạ mà bước vào cuộc đời nhau. Và giờ đây chúng ta tiếp tục cùng nhau sang trang mới. Giây phút anh ngỏ lời “Làm vợ anh nhé!”, em đã nguyện ý đời này, đi đâu cũng được, miễn là cùng anh.
+                     Giây phút anh quỳ xuống trước em, giữa không gian lặng đi chỉ còn nhịp tim rung rinh, mọi lo lắng dường như tan biến. Chiếc nhẫn nhỏ bé lấp lánh không chỉ là lời hứa, mà là cả một hành trình yêu thương anh muốn cùng em bước tiếp. Khi em mỉm cười gật đầu, thời gian như ngừng trôi, và anh biết rằng từ khoảnh khắc ấy, tương lai của anh đã có tên em.
                     </p>
                   </div>
                 </transition>
