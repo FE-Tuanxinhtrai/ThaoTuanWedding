@@ -24,8 +24,8 @@
               <li>
                 <transition name="slide-right">
                   <div class="detail" v-if="showP">
-                    <h3 class="tw-font-comfortaa text-family !tw-text-[30px]">Lời tỏ tình dễ thương</h3>
-                    <p class="tw-font-comfortaa text-family">
+                    <h3 class="tw-font-comfortaa text-family !tw-text-[32px]">Lời tỏ tình dễ thương</h3>
+                    <p class="tw-font-comfortaa text-family !tw-text-[18px]">
                       Một mình giữa phố thị nấp tập. Mỗi chiều cuối tuần thường chạy xe vòng quanh
                       qua những con phố, len lỏi trong từng dòng người tấp nập. Hay thậm chí là ghé
                       vào một quán cà phê ven đường để ngồi đó và cảm nhận về cuộc sống của riêng
@@ -56,8 +56,8 @@
                 </transition>
                 <transition name="slide-left">
                   <div class="detail" v-if="showP">
-                    <h3 class="tw-font-comfortaa text-family !tw-text-[30px]">Phút Giây Cầu Hôn</h3>
-                    <p class="tw-font-comfortaa text-family" >
+                    <h3 class="tw-font-comfortaa text-family !tw-text-[32px]">Phút Giây Cầu Hôn</h3>
+                    <p class="tw-font-comfortaa text-family !tw-text-[18px]" >
                      5 năm bên nhau không phải là quãng thời gian quá dài, nhưng đủ cho chúng ta nhận ra được rất nhiều điều. Yêu nhau, vun vén hạnh phúc và cùng nỗ lực vượt qua những khó khăn trong cuộc sống. Chúng ta từ 2 con người xa lạ mà bước vào cuộc đời nhau. Và giờ đây chúng ta tiếp tục cùng nhau sang trang mới. Giây phút anh ngỏ lời “Làm vợ anh nhé!”, em đã nguyện ý đời này, đi đâu cũng được, miễn là cùng anh.
                      Giây phút anh quỳ xuống trước em, giữa không gian lặng đi chỉ còn nhịp tim rung rinh, mọi lo lắng dường như tan biến. Chiếc nhẫn nhỏ bé lấp lánh không chỉ là lời hứa, mà là cả một hành trình yêu thương anh muốn cùng em bước tiếp. Khi em mỉm cười gật đầu, thời gian như ngừng trôi, và anh biết rằng từ khoảnh khắc ấy, tương lai của anh đã có tên em.
                     </p>

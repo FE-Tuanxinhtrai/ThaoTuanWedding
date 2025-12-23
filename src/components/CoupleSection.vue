@@ -26,7 +26,7 @@
                 <div class="detail slide-right">
                   <div class="inner">
                     <h2>Văn Tuấn</h2>
-                    <p class="text-family">
+                    <p class="text-family !tw-text-[18px]">
                       Chàng trai cung Ma Kết – người có ý chí mạnh mẽ, sống thực tế, kiên trì theo đuổi mục tiêu và luôn âm thầm nỗ lực để đạt được thành công bền vững 😍.  Ma Kết đại diện cho địa vị, danh vọng và sự nỗ lực không ngừng với vẻ ngoài cứng rắn, mạnh mẽ.
                     </p>
                   </div>
@@ -38,7 +38,7 @@
                 <div class="detail tw-h-full">
                   <div class="inner">
                     <h2>Thu Thảo</h2>
-                    <p class="text-family">
+                    <p class="text-family !tw-text-[18px]">
                       Cô gái Cự Giải mang trong mình sự dịu dàng và sâu sắc, luôn yêu thương bằng cả trái tim chân thành. Dù bề ngoài có vẻ trầm lặng, bên trong cô là một thế giới cảm xúc phong phú, nơi sự quan tâm và bao dung dành cho những người cô yêu thương chưa bao giờ vơi cạn. Cô trân trọng gia đình, ký ức và những điều nhỏ bé, và chính sự ấm áp ấy khiến bất cứ ai ở bên cạnh cũng cảm thấy bình yên.🤣
                     </p>
                   </div>

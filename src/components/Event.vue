@@ -17,7 +17,7 @@
                   <a-image
                     :src="image1"
                     alt=""
-                    class="!tw-h-[182px] !tw-w-[182px] tw-object-cover"
+                    class="!tw-object-cover !tw-aspect-square"
                   />
                 </div>
                 <p>
@@ -52,7 +52,7 @@
                   <a-image
                      :src="image2"
                     alt=""
-                    class="!tw-h-[182px] !tw-w-[182px] tw-object-cover"
+                    class="!tw-object-cover !tw-aspect-square"
                   />
                 </div>
                 <p>
